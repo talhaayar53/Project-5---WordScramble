@@ -13,6 +13,7 @@
 		ABAE76AE2306A426000B9C2B /* WordScramble.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = ABAE76AC2306A426000B9C2B /* WordScramble.xcdatamodeld */; };
 		ABAE76B02306A429000B9C2B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABAE76AF2306A429000B9C2B /* Assets.xcassets */; };
 		ABAE76B32306A429000B9C2B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ABAE76B12306A429000B9C2B /* LaunchScreen.storyboard */; };
+		ABAE76BD2306DD3A000B9C2B /* words.txt in Resources */ = {isa = PBXBuildFile; fileRef = ABAE76BC2306DD39000B9C2B /* words.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		ABAE76AF2306A429000B9C2B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ABAE76B22306A429000B9C2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ABAE76B42306A429000B9C2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ABAE76BC2306DD39000B9C2B /* words.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = words.txt; path = ../../../../Downloads/words.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				ABAE76B12306A429000B9C2B /* LaunchScreen.storyboard */,
 				ABAE76B42306A429000B9C2B /* Info.plist */,
 				ABAE76AC2306A426000B9C2B /* WordScramble.xcdatamodeld */,
+				ABAE76BC2306DD39000B9C2B /* words.txt */,
 			);
 			path = WordScramble;
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			files = (
 				ABAE76B32306A429000B9C2B /* LaunchScreen.storyboard in Resources */,
 				ABAE76B02306A429000B9C2B /* Assets.xcassets in Resources */,
+				ABAE76BD2306DD3A000B9C2B /* words.txt in Resources */,
 				ABAE76AB2306A426000B9C2B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
